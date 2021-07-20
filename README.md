@@ -1,1 +1,1 @@
-# Emmision-model
+# Emission-model
